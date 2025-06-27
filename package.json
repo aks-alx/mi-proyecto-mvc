@@ -23,13 +23,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/mi-proyecto-mvc.git"
+    "url": "git+https://github.com/aks-alx/mi-proyecto-mvc.git"
   },
   "author": "Your Name",
   "license": "MIT",
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/yourusername/mi-proyecto-mvc/issues"
+    "url": "https://github.com/aks-alx/mi-proyecto-mvc/issues"
   },
-  "homepage": "https://github.com/yourusername/mi-proyecto-mvc#readme"
+  "homepage": "https://github.com/aks-alx/mi-proyecto-mvc#readme"
 }
